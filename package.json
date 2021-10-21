@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.s",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busssu/PCAT.git"
+  },
+  "keywords": [
+    "photp",
+    "app",
+    "camera"
+  ],
+  "author": "\"Büşra Biner\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busssu/PCAT/issues"
+  },
+  "homepage": "https://github.com/busssu/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
